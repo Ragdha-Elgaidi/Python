@@ -1,0 +1,1 @@
+![Screenshot 2023-04-16 at 08-23-35 python-operator-precedence webp (WEBP Image 663 × 596 pixels) — Scaled (79_)](https://user-images.githubusercontent.com/76912120/232276671-ea34366f-bfb2-4a23-938b-a0161cc6093f.png)
