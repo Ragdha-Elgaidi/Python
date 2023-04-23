@@ -1,3 +1,10 @@
+# Class 
+- group relevant data and methods in a single unit (e.g. Student/Book/Admin)
+# Object
+- we instantiate/create many objects from the class blueprint
+###### Note:
+- We studied built-in classes: int, float, list, str, tuple, dict, set
+- We learned about (im)mutability, in-place changes and memory name-value binding
 # Create an Object
 #### Line 3: Class Employee
 - It gathers together the related variables of the class
